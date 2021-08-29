@@ -22,7 +22,8 @@ Friday - 8am - 10 am
 
         - Code Uploaded to Github.
 
-Sunday - 9:30am -
+Sunday - 9:30am - 10 am
+
     * Updated text files with student goal statements
 
     * Students I have: chigwira, evanCallaghan, davidbee, maddiee, nguyen, danh1234
