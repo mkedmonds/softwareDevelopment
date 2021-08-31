@@ -34,13 +34,14 @@ Sunday - 9:30am -
 
 Tuesday - 9:30 - 
 
-    * Completely redo the coding I've alrady done to suite last minute requirements
+    * Completely redo the coding I've already done to suit last minute requirements
 
-    * Students that have not sent their goal statements will result to the default group statement
+    * Students that have not sent their goal statements will result to the initial statement
 
     * Begin designing site:
 
         - Ensure wording is readable
+        
         - Create GitHub link to site
 
     * Assignment page has also been created
