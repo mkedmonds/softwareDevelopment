@@ -1,7 +1,8 @@
 Assignment: Create a program in your chosen language to have the user input a username. With the username, a text file displaying the student's Success paper should be returned.
 
 Website link: https://madelineedmonds.net/softwareDevelopment/
-Video Link:
+
+Video Link: https://youtu.be/nlUxnMP-SZE
 
 
 Chosen programming language: HTML/CSS/JQUERY
