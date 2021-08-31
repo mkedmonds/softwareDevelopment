@@ -22,7 +22,7 @@ Friday - 8am - 10 am
 
         - Code Uploaded to Github.
 
-Sunday - 9:30am - 10 am
+Sunday - 9:30am -
 
     * Updated text files with student goal statements
 
@@ -31,3 +31,16 @@ Sunday - 9:30am - 10 am
     * Problem: Jquery ajax programing not updating the site page
 
     * Soulution: After looking through stack overflow and console.log errors I found that I needed to run my site on my localhost server, not just from the folder.
+
+Tuesday - 9:30 - 
+
+    * Completely redo the coding I've alrady done to suite last minute requirements
+
+    * Students that have not sent their goal statements will result to the default group statement
+
+    * Begin designing site:
+
+        - Ensure wording is readable
+        - Create GitHub link to site
+
+    * Assignment page has also been created
