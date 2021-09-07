@@ -1,0 +1,13 @@
+#container {
+    width: 960px;
+    margin: auto auto;
+}
+
+code {
+    font-size: 25px;
+}
+
+pre {
+    color: red;
+
+}
