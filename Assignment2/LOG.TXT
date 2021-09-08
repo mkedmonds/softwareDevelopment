@@ -1,0 +1,39 @@
+TIME SHEETS
+
+++++++++++++++++++++++++++++++++++++++
+
+September 3, 2021
+
+8-9am
+
+    * Assignment given: Create a Blog Post on how to add a format code snippets in an HTML file
+
+    *Partner: Craig Shaffer
+
+3-4pm
+    * Researched the <code> tag and it's functions
+
+    * Found formatting was on one line so I found using the <pre> tags can keep the look and shape of the code snippets you've provided.  
+
+    *Created HTML file and added it to GitHub
+    
+++++++++++++++++++++++++++++++++++++++
+
+September 7, 2021
+
+9am - 10pm
+
+    * Updated HTML file with CSS styling. found how to change the whole code text a different color but not how to highlight specific text.
+
+++++++++++++++++++++++++++++++++++++++
+
+September 8, 2021
+
+8am - 8:30am
+
+    * Attended class, computer had troubles
+
+10 am - 10:50 am
+
+    * Found that using the <div> tags in the code tags and styling the <div> you can have specific words highlighted a separate color.
+

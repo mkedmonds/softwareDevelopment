@@ -3,11 +3,27 @@
     margin: auto auto;
 }
 
+p {
+    font-size: 20px;;
+}
+
 code {
-    font-size: 25px;
+    font-size: 15px;
+    
+}
+
+.codeTitle {
+    color: orange;
+    display: inline;
+}
+
+.codeName {
+    color: blue;
+    display: inline;
 }
 
 pre {
-    color: red;
-
+    display: block;
+    width: min-content;
+    background-color: #ffeff0;
 }
