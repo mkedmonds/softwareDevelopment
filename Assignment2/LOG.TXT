@@ -37,3 +37,10 @@ September 8, 2021
 
     * Found that using the <div> tags in the code tags and styling the <div> you can have specific words highlighted a separate color.
 
+September 9, 2021
+
+1pm - 2:30pm
+
+    * Create essay HTML page for Pull Requests.
+    * Push all files to GitHub
+    * Prepare Pull Requests
