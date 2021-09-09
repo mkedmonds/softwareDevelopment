@@ -1,0 +1,117 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <style>
+
+    .changeColor { 
+
+        color: red; 
+
+    } 
+
+    pre,code{
+        height: min-content;
+        width: fit-content;
+    }
+    </style>
+
+</head>
+
+<body>
+
+<h2>Formatting Code </h2>
+
+<p>When you add code to an HTML file, normally the code will disappear and the tags you used will just format the code. For our website since we wanted to use the code as displayed text, we will need to use the <code>&lt;code&gt;</code> tags. These tags will ignore the formatting and just display the code fully.</p>
+
+<p>Another issue with formatting code is that just using the tag puts all the code on one line. So, you will need to put your code tags within a <code>&lt;pre&gt;</code> tag to keep its shape. </p>
+
+<p>Here’s how to use it: </p>
+
+<p>&lt;pre&gt; </p>
+
+    <p style="text-indent: 25px;">&lt;code&gt;</p> 
+
+    <p style="text-indent: 50px;">
+    body { 
+
+        <p style="text-indent: 75px;">background-color: blue; </p>
+
+        <p style="text-indent: 50px;">} </p>
+    </p>
+
+    <p style="text-indent: 50px;">h1 {</p> 
+
+        <p style="text-indent: 75px;">font-size: 35px;</p> 
+
+    <p style="text-indent: 50px;">}</p> 
+
+    <p style="text-indent: 25px;">&lt;/code&gt;</p> 
+
+<p>&lt;/pre&gt;</p> 
+
+<p>Here’s how the code will look on the webpage:</p> 
+
+<pre>
+
+<code>
+
+    body { 
+
+        background-color: blue; 
+    
+    } 
+    
+    h1 { 
+    
+        font-size: 35px; 
+    
+    }
+
+</code>
+
+</pre>
+
+
+<h2>Designing your Code </h2>
+
+<p>If you want to change the colors of your code you can do that with CSS. In between the &lt;code&gt; tags you can add a &lt;div&gt; tag with a class attribute that with CSS and the div tag will disappear in your code segments.</p> 
+
+<p>For example,</p> 
+<pre><code>
+    &lt;style&gt;
+
+    .changeColor { 
+
+        color: red; 
+
+    } 
+
+    &lt;/style&gt;
+
+    &lt;div class="changeColor"&gt;body&lt;/div&gt; { 
+
+        background-color: blue; 
+
+    } 
+</code> 
+</pre>  
+
+<p>Will look like:</p> 
+<pre><code> <div class="changeColor">body</div> { 
+
+    background-color: blue; 
+
+} 
+
+</code> 
+
+</pre>
+
+</body>
+</html>
+
